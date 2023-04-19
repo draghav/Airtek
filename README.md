@@ -23,3 +23,5 @@ order: order-099, flightNumber: 1, departure: <departure_city>, arrival: <arriva
 
 if an order has not yet been scheduled, output:
 order: order-X, flightNumber: not scheduled
+
+![image](https://user-images.githubusercontent.com/19863036/233212176-484edef0-2abf-40ca-b35b-e3c68fca13e6.png)
