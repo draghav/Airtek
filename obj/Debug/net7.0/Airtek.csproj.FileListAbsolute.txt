@@ -1,0 +1,15 @@
+C:\Users\Raghuvanshi\Repo\Airtek\bin\Debug\net7.0\Airtek.exe
+C:\Users\Raghuvanshi\Repo\Airtek\bin\Debug\net7.0\Airtek.deps.json
+C:\Users\Raghuvanshi\Repo\Airtek\bin\Debug\net7.0\Airtek.runtimeconfig.json
+C:\Users\Raghuvanshi\Repo\Airtek\bin\Debug\net7.0\Airtek.dll
+C:\Users\Raghuvanshi\Repo\Airtek\bin\Debug\net7.0\Airtek.pdb
+C:\Users\Raghuvanshi\Repo\Airtek\obj\Debug\net7.0\Airtek.csproj.AssemblyReference.cache
+C:\Users\Raghuvanshi\Repo\Airtek\obj\Debug\net7.0\Airtek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raghuvanshi\Repo\Airtek\obj\Debug\net7.0\Airtek.AssemblyInfoInputs.cache
+C:\Users\Raghuvanshi\Repo\Airtek\obj\Debug\net7.0\Airtek.AssemblyInfo.cs
+C:\Users\Raghuvanshi\Repo\Airtek\obj\Debug\net7.0\Airtek.csproj.CoreCompileInputs.cache
+C:\Users\Raghuvanshi\Repo\Airtek\obj\Debug\net7.0\Airtek.dll
+C:\Users\Raghuvanshi\Repo\Airtek\obj\Debug\net7.0\refint\Airtek.dll
+C:\Users\Raghuvanshi\Repo\Airtek\obj\Debug\net7.0\Airtek.pdb
+C:\Users\Raghuvanshi\Repo\Airtek\obj\Debug\net7.0\Airtek.genruntimeconfig.cache
+C:\Users\Raghuvanshi\Repo\Airtek\obj\Debug\net7.0\ref\Airtek.dll
