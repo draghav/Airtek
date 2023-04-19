@@ -44,15 +44,21 @@ public class Userstory2
         var schedule = Userstory1.GetSchedule();
 
         foreach (KeyValuePair<DayOfWeek, List<Userstory1.Flight>> kvp in schedule)
-        {            
+        {
             foreach (var flight in kvp.Value)
             {
-                if (string.Equals(flight.Arrival, destination, StringComparison.OrdinalIgnoreCase) && flight.Orders < MAX_ORDERS_FLIGHT)
+                if (string.Equals(flight.Arrival, destination, StringComparison.OrdinalIgnoreCase))
                 {
-                    flight.Orders++;
-                    Console.WriteLine($"Order: {orderNumber}, flightNumber: {flight.Id}, departure: {flight.Departure}, arrival: {flight.Arrival}, day: {kvp.Key}");                    
-                    
-                    return;
+                    if (flight.Orders < MAX_ORDERS_FLIGHT)
+                    {
+                        flight.Orders++;
+                        Console.WriteLine($"Order: {orderNumber}, flightNumber: {flight.Id}, departure: {flight.Departure}, arrival: {flight.Arrival}, day: {kvp.Key}");
+                        return;
+                    }
+                    else
+                    {
+                        Console.WriteLine($"Order: {orderNumber}, flightNumber: not scheduled");
+                    }
                 }
             }
         }
